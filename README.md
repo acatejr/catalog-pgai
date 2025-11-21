@@ -230,7 +230,3 @@ uv add pgai
 # From cli
 uv run pgai install -d postgresql://user:pass@localhost:5432/mydb
 ```
-
-## License
-
-This project is developed for the U.S. Forest Service data catalog infrastructure.
