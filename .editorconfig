@@ -1,0 +1,14 @@
+root = true
+
+[*]
+trim_trailing_whitespace = true
+
+[*.md]
+trim_trailing_whitespace = false
+
+[*.py]
+trim_trailing_whitespace = true
+end_of_line = lf
+tab_width = 4
+indent_size = 4
+indent_style = space
